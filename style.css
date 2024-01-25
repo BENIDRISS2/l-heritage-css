@@ -1,0 +1,13 @@
+html{
+    font-family: "lucida Grande",sans-serif;
+}
+h1{
+    font-family: "Times New Roman", serif;
+}
+ul{
+    margin-left: 50px;
+    background-color: lightblue;
+}
+#marge{
+    margin-left: 50px;
+}
